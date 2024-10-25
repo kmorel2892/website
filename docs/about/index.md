@@ -11,7 +11,6 @@ Beyond the academic realm, Dr. Simpson is an avid stargazer and science communic
 # Other Interests
 
 - [Pandas](./pandas.md)
-- [Cycling](./cycling.md)
 - [Olympic Fishing](./fishing.md)
 
 

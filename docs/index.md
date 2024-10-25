@@ -1,7 +1,7 @@
 # Welcome to My Research Page
 
 
-![Kim Morel](./media/MOREL_Kim.png "Me"){align="left": style="height:200;width:200px"}
+![Kim Morel](./media/MOREL_Kim.png "Me"){align="right": style="height:200;width:200px"}
 Welcome to the digital platform of a dedicated physics graduate student committed to unraveling the intricacies of the cosmos. 
 Focused on the exploration of the profound Crab Nebula, a celestial phenomenon steeped in historical fascination, my research endeavors center on the application of advanced astrophysical methodologies and theoretical frameworks. 
 This platform serves as an invitation to accompany me on a scholarly journey into the depths of the universe. 
