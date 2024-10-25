@@ -1,11 +1,11 @@
 # Change to your own name
-site_name: My Research Page
+site_name: Kim Morel
 # Change to your own site
-site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
-site_author: Your Name (stephan.obrien@mcgill.ca)
-site_description: Research site for Your Name 
+site_url: https://kmorel2892.github.io/website/ # must have the trailing slash
+site_author: Kim Morel (kmorel@mail.mcgill.ca)
+site_description: Research site for Kim Morel
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
+  &copy; 2024 Kim Morel <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
