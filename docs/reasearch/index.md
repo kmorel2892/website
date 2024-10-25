@@ -1,6 +1,6 @@
 # Research Interests
 
-Here is a paragraph explaining my research interests, the telescopes that I'm involved in or which I use. 
+I am mostly interested in observational 21 cm cosmology.
 
 
 A full list of publications can be found [here](./all_publications.md).

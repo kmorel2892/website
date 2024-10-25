@@ -10,7 +10,7 @@ Beyond the academic realm, Dr. Simpson is an avid stargazer and science communic
 
 # Other Interests
 
-- [Cooking](./cooking.md)
+- [Pandas](./pandas.md)
 - [Cycling](./cycling.md)
 - [Olympic Fishing](./fishing.md)
 
@@ -18,4 +18,4 @@ Beyond the academic realm, Dr. Simpson is an avid stargazer and science communic
 # CV
 
 <!-- How to embed a PDF -->
-<iframe width="100%" height="600" src="./media/SWE_Resume_Template.pdf">
+<iframe width="100%" height="600" src="./media/KIM MOREL_CV_academic_website.pdf">
