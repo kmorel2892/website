@@ -1,17 +1,16 @@
 # Introduction
 
-Dr. Lisa Simpson is an accomplished astrophysicist whose passion for unraveling the mysteries of the cosmos has driven her academic journey. She earned her Bachelor's degree in Physics with honors from Celestial University, where her early fascination with astrophysics blossomed. Embarking on the pursuit of advanced knowledge, she continued her education at Stellar Institute, obtaining a Master's degree in Astrophysical Sciences with a focus on high-energy astrophysics.
+Kim Morel has always been passionate about the Universe and the fact that it's still widely unknown, which inspired her to pursue a career in studying it. She completed her Bachelor's degree in Physics with a concentration in Astrophysics at Université de Montréal (UdeM), where she first began her journey in astrophysics research at the Trottier Insitute for Research on Exoplanets ([IREx](https://exoplanetes.umontreal.ca/en/)). She remained affiliated with IREx and supervised by Prof. David Lafrenière throughout her Master's degree at UdeM, where she studied the atmosphere of exoplanets, i.e., planets outside the Solar System, using data from the James Webb Sapce Telescope (JWST).
 
-Dr. Simpson's scholarly journey reached its zenith at Galactic University, where she completed her Ph.D. in Astrophysics. Her doctoral research centered on the Crab Nebula, an iconic celestial object known for its dynamic behavior. With a keen interest in both observational and theoretical aspects of astrophysics, Dr. Simpson utilized cutting-edge technology and advanced computational models to deepen our understanding of the processes at play within the Crab Nebula.
+After studying other worlds within our own galaxy, she is now expanding her research to the entire cosmos. She is pursuing her doctoral studies at McGill University in Prof. Adrian Liu's research group. Her project focuses on observational 21 cm cosmology, which traces the distribution of matter in the Universe. The goal is to create a 3D map of this matter, providing insights into the evolution of the Universe since looking far away in space is akin to looking back in time. Ultimately, it will help constrain key aspects of the Universe's expansion, galaxy formation, dark matter, and fundamental physics, including General Relativity.
 
-Throughout her academic career, Dr. Simpson has contributed to numerous publications in reputable astrophysical journals and has presented her findings at international conferences. She is recognized for her meticulous research methodologies and her commitment to advancing our understanding of the universe. As a dedicated educator, Dr. Simpson has also mentored aspiring astrophysicists, fostering the next generation's curiosity and passion for the cosmos.
+Beyond academia, Kim is actively involved in scientific outreach events, as she is committed to making research accessible to the public and demystifying the work done in her field. She also aims to show how one can transition from a passion for science to a dedicated career in research. Additionally, she works with young students as a teaching assistant and holds a [key position](../implication/index.md) in the organization [InitiaSciences](https://initiasciences.ca/).
 
-Beyond the academic realm, Dr. Simpson is an avid stargazer and science communicator, regularly engaging with the public through lectures, workshops, and social media platforms. Her multifaceted approach to astrophysics encompasses both the pursuit of groundbreaking research and the dissemination of knowledge to a broader audience, embodying a commitment to bridging the gap between the mysteries of the universe and the curious minds seeking to explore them.
 
 # Other Interests
 
 - [Pandas](./pandas.md)
-- [Olympic Fishing](./fishing.md)
+- [Reading](./reading.md)
 
 
 # CV

@@ -1,6 +1,6 @@
 # Pandas
 
-There are just so cute! Pandas make people smile.
+There are just so funny and cute! Pandas make people happy.
 
 ![Panda](./media/panda.jpg "Panda"){align="top": style="height:500;width:500px"}
 

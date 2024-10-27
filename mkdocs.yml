@@ -17,9 +17,9 @@ theme:
       # Palette toggle for light mode
       - scheme: default
         # Color of the top bar
-        primary: deep purple
+        primary: pink
         # Link highlight color
-        accent : orange
+        accent : purple
         
         toggle:
           icon: material/brightness-7 
@@ -27,6 +27,7 @@ theme:
 
       # Palette toggle for dark mode
       - scheme: slate
+        primary: pink
         toggle:
           icon: material/brightness-4
           name: Switch to light mode
@@ -58,18 +59,19 @@ nav:
   - Home: index.md
   - About Me: about/index.md
   - Research: reasearch/index.md
-  - Implication: implication/index.md
+  - Outreach and Community: implication/index.md
 
 # Extensions that we want to use
 markdown_extensions:
   - attr_list   # For adding attributes such as right/left align to images
   - md_in_html  # Using Figures
-
-
+#  - footnotes
 
 # Additional plugins
 plugins:
     - search
+#    - bibtex:
+#        bib_file: reasearch/Website.bib
     # Using jupyter notebook  
     - mkdocs-jupyter:
           theme: default
