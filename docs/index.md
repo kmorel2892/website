@@ -1,4 +1,4 @@
-# Welcome to My Research Page!
+# Welcome to My Website!
 
 ![Kim Morel](./media/MOREL_Kim.png "Me"){align="right": style="height:250;width:250px"}
 
